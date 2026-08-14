@@ -6,7 +6,7 @@ if __name__ == "__main__":
     best_decipherd_msg = ''
     best_line_num, line_num = 0, 0
 
-    with open('crypto/cryptopals-challenges/set1/input/c4.txt', 'r') as f:
+    with open('./set1/input/4.txt', 'r') as f:
         for line in f:
             line_num += 1
             key, decipherd_msg, curr_score = xor_decipher(line.strip())
