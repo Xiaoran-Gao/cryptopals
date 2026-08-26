@@ -2,7 +2,7 @@
 
 *(In progress.*
 
-*Last updated: 1/6/2025)*
+*Last updated: 8/26/2026)*
 
 Attempted solutions to [the cryptopals (Matasano) crypto challenge](https://cryptopals.com/) in Python.
 
@@ -24,8 +24,8 @@ python3 <set>/<challenge>.py
 - [x] Challenge 4
 - [x] Challenge 5
 - [x] Challenge 6
-- [ ] Challenge 7
-- [ ] Challenge 8
+- [x] Challenge 7
+- [x] Challenge 8
 
 ### Set 2: Block crypto
 
